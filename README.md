@@ -7,4 +7,5 @@
 # _tambah.php_
 ![tambahbarang](https://user-images.githubusercontent.com/127708664/227836877-aec4d505-ae01-4dec-95a5-46827ae5456e.png)
 
+# _ubah.php_
 
