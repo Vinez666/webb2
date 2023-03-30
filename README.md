@@ -8,4 +8,4 @@
 ![tambahbarang](https://user-images.githubusercontent.com/127708664/227836877-aec4d505-ae01-4dec-95a5-46827ae5456e.png)
 
 # _ubah.php_
-
+![ubahbarang](https://user-images.githubusercontent.com/127708664/228713841-20415fe5-cda0-40ff-a7cc-b430ed9b447e.jpeg)
